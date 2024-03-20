@@ -6,4 +6,4 @@
   - [발표자료](resources/kakao.pdf)
 - [인프콘 - 2곳 중 1곳은 무조건 합격하는 개발자 이력서 만들기](https://youtu.be/ifGUz43GjdQ)
   - [발표자료](resources/infcon.pdf)
-- [이력서 다크 패턴](resources/dark-pattern.md)
+- [이력서 다크 패턴](resources/dark-pattern.pdf)
